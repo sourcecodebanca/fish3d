@@ -1,0 +1,93 @@
+{"frames": {
+
+"BrokenGlass.png":
+{
+	"frame": {"x":765,"y":674,"w":251,"h":221},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":251,"h":221},
+	"sourceSize": {"w":251,"h":221}
+},
+"EffectBoom4.png":
+{
+	"frame": {"x":1,"y":480,"w":400,"h":400},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":56,"y":56,"w":400,"h":400},
+	"sourceSize": {"w":512,"h":512}
+},
+"Emotion4Icon.png":
+{
+	"frame": {"x":513,"y":897,"w":124,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":124,"h":123},
+	"sourceSize": {"w":125,"h":125}
+},
+"Emotion6Icon.png":
+{
+	"frame": {"x":1,"y":882,"w":126,"h":139},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":6,"w":126,"h":139},
+	"sourceSize": {"w":150,"h":150}
+},
+"goldenText.png":
+{
+	"frame": {"x":129,"y":882,"w":382,"h":133},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":382,"h":133},
+	"sourceSize": {"w":382,"h":133}
+},
+"Grand.png":
+{
+	"frame": {"x":1,"y":1,"w":530,"h":477},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":530,"h":477},
+	"sourceSize": {"w":530,"h":477}
+},
+"Major.png":
+{
+	"frame": {"x":533,"y":1,"w":481,"h":477},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":481,"h":477},
+	"sourceSize": {"w":481,"h":477}
+},
+"particleLineBossDragon.png":
+{
+	"frame": {"x":639,"y":897,"w":382,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":382,"h":46},
+	"sourceSize": {"w":382,"h":46}
+},
+"soniclight.png":
+{
+	"frame": {"x":403,"y":480,"w":360,"h":356},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":360,"h":356},
+	"sourceSize": {"w":360,"h":356}
+},
+"TomatoExplode.png":
+{
+	"frame": {"x":765,"y":480,"w":256,"h":192},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":192},
+	"sourceSize": {"w":256,"h":192}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasEffectsInGamePack2.webp",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"related_multi_packs": [ "AtlasEffectsInGamePack0.json", "AtlasEffectsInGamePack1.json", "AtlasEffectsInGamePack3.json", "AtlasEffectsInGamePack4.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:188092349eb19ac5923842d9bc18b075:55d51cba1070d42a8e524bdb85db63e3:9baad3fa80a8ff2db7a5f769b55b3bed$"
+}
+}

@@ -1,0 +1,261 @@
+{"frames": {
+
+"bgBonusTamQuoc.jpg":
+{
+	"frame": {"x":2,"y":2,"w":1020,"h":574},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1020,"h":574},
+	"sourceSize": {"w":1020,"h":574}
+},
+"bonusIconGift0.png":
+{
+	"frame": {"x":892,"y":636,"w":57,"h":56},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":2,"w":57,"h":56},
+	"sourceSize": {"w":60,"h":60}
+},
+"bonusIconGift1.png":
+{
+	"frame": {"x":892,"y":578,"w":58,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":58,"h":56},
+	"sourceSize": {"w":60,"h":60}
+},
+"bonusIconGift3.png":
+{
+	"frame": {"x":688,"y":947,"w":60,"h":56},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":60,"h":56},
+	"sourceSize": {"w":60,"h":60}
+},
+"bonusIconGift4.png":
+{
+	"frame": {"x":804,"y":947,"w":59,"h":56},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":59,"h":56},
+	"sourceSize": {"w":60,"h":60}
+},
+"bonusIconGift5.png":
+{
+	"frame": {"x":862,"y":935,"w":59,"h":56},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":59,"h":56},
+	"sourceSize": {"w":60,"h":60}
+},
+"bonusIconGift9.png":
+{
+	"frame": {"x":746,"y":947,"w":60,"h":56},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":60,"h":56},
+	"sourceSize": {"w":60,"h":60}
+},
+"bonusIconGift11.png":
+{
+	"frame": {"x":920,"y":935,"w":59,"h":55},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":3,"w":59,"h":55},
+	"sourceSize": {"w":60,"h":60}
+},
+"bonusIconGift13.png":
+{
+	"frame": {"x":952,"y":578,"w":56,"h":58},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":56,"h":58},
+	"sourceSize": {"w":60,"h":60}
+},
+"bonusIconGift14.png":
+{
+	"frame": {"x":630,"y":947,"w":56,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":56,"h":60},
+	"sourceSize": {"w":60,"h":60}
+},
+"bonusProgressBar2.png":
+{
+	"frame": {"x":197,"y":785,"w":185,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":13},
+	"sourceSize": {"w":185,"h":13}
+},
+"bonusProgressBar3.png":
+{
+	"frame": {"x":376,"y":999,"w":185,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":13},
+	"sourceSize": {"w":185,"h":13}
+},
+"bonusProgressBar4.png":
+{
+	"frame": {"x":383,"y":800,"w":185,"h":13},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":13},
+	"sourceSize": {"w":185,"h":13}
+},
+"bonusProgressBar5.png":
+{
+	"frame": {"x":384,"y":785,"w":185,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":13},
+	"sourceSize": {"w":185,"h":13}
+},
+"bonusProgressBar6.png":
+{
+	"frame": {"x":398,"y":800,"w":185,"h":13},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":13},
+	"sourceSize": {"w":185,"h":13}
+},
+"bonusProgressBar7.png":
+{
+	"frame": {"x":413,"y":800,"w":185,"h":13},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":13},
+	"sourceSize": {"w":185,"h":13}
+},
+"bonusProgressBar8.png":
+{
+	"frame": {"x":428,"y":800,"w":185,"h":13},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":13},
+	"sourceSize": {"w":185,"h":13}
+},
+"bonusProgressBar9.png":
+{
+	"frame": {"x":443,"y":800,"w":185,"h":13},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":13},
+	"sourceSize": {"w":185,"h":13}
+},
+"bonusProgressBar14.png":
+{
+	"frame": {"x":2,"y":1007,"w":185,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":13},
+	"sourceSize": {"w":185,"h":13}
+},
+"bonusProgressBar15.png":
+{
+	"frame": {"x":189,"y":1007,"w":185,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":13},
+	"sourceSize": {"w":185,"h":13}
+},
+"ChestNomal.png":
+{
+	"frame": {"x":714,"y":578,"w":176,"h":179},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":41,"w":176,"h":179},
+	"sourceSize": {"w":193,"h":220}
+},
+"CoinOpen1.png":
+{
+	"frame": {"x":630,"y":763,"w":182,"h":175},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":15,"w":182,"h":175},
+	"sourceSize": {"w":195,"h":205}
+},
+"CoinOpen2.png":
+{
+	"frame": {"x":807,"y":759,"w":166,"h":174},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":16,"w":166,"h":174},
+	"sourceSize": {"w":195,"h":205}
+},
+"CoinOpen5.png":
+{
+	"frame": {"x":458,"y":800,"w":170,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":11,"w":170,"h":183},
+	"sourceSize": {"w":195,"h":205}
+},
+"CoinOpen6.png":
+{
+	"frame": {"x":199,"y":800,"w":182,"h":197},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":4,"w":182,"h":197},
+	"sourceSize": {"w":195,"h":205}
+},
+"CoinOpen7.png":
+{
+	"frame": {"x":197,"y":578,"w":191,"h":205},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":191,"h":205},
+	"sourceSize": {"w":195,"h":205}
+},
+"CoinOpen8.png":
+{
+	"frame": {"x":2,"y":800,"w":195,"h":205},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":195,"h":205},
+	"sourceSize": {"w":195,"h":205}
+},
+"ItemChest0.png":
+{
+	"frame": {"x":714,"y":578,"w":176,"h":179},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":41,"w":176,"h":179},
+	"sourceSize": {"w":193,"h":220}
+},
+"ItemChest1.png":
+{
+	"frame": {"x":2,"y":578,"w":193,"h":220},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":193,"h":220},
+	"sourceSize": {"w":193,"h":220}
+},
+"ItemShell1.png":
+{
+	"frame": {"x":390,"y":578,"w":160,"h":183},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":183},
+	"sourceSize": {"w":160,"h":183}
+},
+"ItemShell2.png":
+{
+	"frame": {"x":552,"y":578,"w":160,"h":183},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":183},
+	"sourceSize": {"w":160,"h":183}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasBonusGamePack1.webp",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"related_multi_packs": [ "AtlasBonusGamePack0.json", "AtlasBonusGamePack2.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:a10d05e89efc823fba9e42766a956328:1bafae82fcd6acc5cce3a584e82b7f7d:e09a02c8be8d5678bf44a90f9389716b$"
+}
+}

@@ -1,0 +1,332 @@
+{"frames": {
+
+"fish12Swim0.png":
+{
+	"frame": {"x":322,"y":534,"w":158,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":3,"w":158,"h":70},
+	"sourceSize": {"w":163,"h":75}
+},
+"fish12Swim1.png":
+{
+	"frame": {"x":2,"y":605,"w":158,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":3,"w":158,"h":70},
+	"sourceSize": {"w":163,"h":75}
+},
+"fish12Swim2.png":
+{
+	"frame": {"x":162,"y":605,"w":158,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":3,"w":158,"h":70},
+	"sourceSize": {"w":163,"h":75}
+},
+"fish12Swim3.png":
+{
+	"frame": {"x":322,"y":606,"w":158,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":3,"w":158,"h":70},
+	"sourceSize": {"w":163,"h":75}
+},
+"fish12Swim4.png":
+{
+	"frame": {"x":322,"y":460,"w":158,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":1,"w":158,"h":72},
+	"sourceSize": {"w":163,"h":75}
+},
+"fish12Swim5.png":
+{
+	"frame": {"x":2,"y":532,"w":158,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":1,"w":158,"h":71},
+	"sourceSize": {"w":163,"h":75}
+},
+"fish12Swim6.png":
+{
+	"frame": {"x":162,"y":532,"w":158,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":1,"w":158,"h":71},
+	"sourceSize": {"w":163,"h":75}
+},
+"fish12Swim7.png":
+{
+	"frame": {"x":2,"y":914,"w":157,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":157,"h":73},
+	"sourceSize": {"w":163,"h":75}
+},
+"fish12Swim8.png":
+{
+	"frame": {"x":152,"y":755,"w":157,"h":72},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":1,"w":157,"h":72},
+	"sourceSize": {"w":163,"h":75}
+},
+"fish12Swim9.png":
+{
+	"frame": {"x":2,"y":755,"w":157,"h":74},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":157,"h":74},
+	"sourceSize": {"w":163,"h":75}
+},
+"fish12Swim10.png":
+{
+	"frame": {"x":322,"y":678,"w":157,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":157,"h":75},
+	"sourceSize": {"w":163,"h":75}
+},
+"fish12Swim11.png":
+{
+	"frame": {"x":326,"y":229,"w":159,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":159,"h":75},
+	"sourceSize": {"w":163,"h":75}
+},
+"fish12Swim12.png":
+{
+	"frame": {"x":324,"y":383,"w":158,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":158,"h":75},
+	"sourceSize": {"w":163,"h":75}
+},
+"fish12Swim13.png":
+{
+	"frame": {"x":2,"y":230,"w":159,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":0,"w":159,"h":75},
+	"sourceSize": {"w":163,"h":75}
+},
+"fish12Swim14.png":
+{
+	"frame": {"x":2,"y":307,"w":159,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":159,"h":74},
+	"sourceSize": {"w":163,"h":75}
+},
+"fish12Swim15.png":
+{
+	"frame": {"x":163,"y":307,"w":159,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":159,"h":74},
+	"sourceSize": {"w":163,"h":75}
+},
+"fish12Swim16.png":
+{
+	"frame": {"x":326,"y":79,"w":160,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":160,"h":73},
+	"sourceSize": {"w":163,"h":75}
+},
+"fish12Swim17.png":
+{
+	"frame": {"x":326,"y":154,"w":160,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":160,"h":73},
+	"sourceSize": {"w":163,"h":75}
+},
+"fish12Swim18.png":
+{
+	"frame": {"x":2,"y":156,"w":160,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":160,"h":72},
+	"sourceSize": {"w":163,"h":75}
+},
+"fish12Swim19.png":
+{
+	"frame": {"x":2,"y":383,"w":159,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":1,"w":159,"h":71},
+	"sourceSize": {"w":163,"h":75}
+},
+"fish12Swim20.png":
+{
+	"frame": {"x":2,"y":677,"w":158,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":158,"h":69},
+	"sourceSize": {"w":163,"h":75}
+},
+"fish12Swim21.png":
+{
+	"frame": {"x":162,"y":677,"w":158,"h":69},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":2,"w":158,"h":69},
+	"sourceSize": {"w":163,"h":75}
+},
+"fish12Swim22.png":
+{
+	"frame": {"x":370,"y":755,"w":157,"h":67},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":3,"w":157,"h":67},
+	"sourceSize": {"w":163,"h":75}
+},
+"fish12Swim23.png":
+{
+	"frame": {"x":319,"y":914,"w":157,"h":68},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":2,"w":157,"h":68},
+	"sourceSize": {"w":163,"h":75}
+},
+"fish12Swim24.png":
+{
+	"frame": {"x":226,"y":748,"w":157,"h":71},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":2,"w":157,"h":71},
+	"sourceSize": {"w":163,"h":75}
+},
+"fish12Swim25.png":
+{
+	"frame": {"x":299,"y":755,"w":157,"h":69},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":2,"w":157,"h":69},
+	"sourceSize": {"w":163,"h":75}
+},
+"fish12Swim26.png":
+{
+	"frame": {"x":439,"y":755,"w":156,"h":70},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":1,"w":156,"h":70},
+	"sourceSize": {"w":163,"h":75}
+},
+"fish12Swim27.png":
+{
+	"frame": {"x":161,"y":914,"w":156,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":2,"w":156,"h":71},
+	"sourceSize": {"w":163,"h":75}
+},
+"fish12Swim28.png":
+{
+	"frame": {"x":78,"y":755,"w":157,"h":72},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":1,"w":157,"h":72},
+	"sourceSize": {"w":163,"h":75}
+},
+"fish12Swim29.png":
+{
+	"frame": {"x":2,"y":456,"w":158,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":158,"h":74},
+	"sourceSize": {"w":163,"h":75}
+},
+"fish12Swim30.png":
+{
+	"frame": {"x":162,"y":456,"w":158,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":158,"h":74},
+	"sourceSize": {"w":163,"h":75}
+},
+"fish12Swim31.png":
+{
+	"frame": {"x":165,"y":2,"w":160,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":75},
+	"sourceSize": {"w":163,"h":75}
+},
+"fish12Swim32.png":
+{
+	"frame": {"x":163,"y":230,"w":159,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":159,"h":75},
+	"sourceSize": {"w":163,"h":75}
+},
+"fish12Swim33.png":
+{
+	"frame": {"x":327,"y":2,"w":160,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":75},
+	"sourceSize": {"w":163,"h":75}
+},
+"fish12Swim34.png":
+{
+	"frame": {"x":324,"y":306,"w":159,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":159,"h":75},
+	"sourceSize": {"w":163,"h":75}
+},
+"fish12Swim35.png":
+{
+	"frame": {"x":2,"y":2,"w":161,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":161,"h":75},
+	"sourceSize": {"w":163,"h":75}
+},
+"fish12Swim36.png":
+{
+	"frame": {"x":2,"y":79,"w":160,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":160,"h":75},
+	"sourceSize": {"w":163,"h":75}
+},
+"fish12Swim37.png":
+{
+	"frame": {"x":164,"y":79,"w":160,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":160,"h":74},
+	"sourceSize": {"w":163,"h":75}
+},
+"fish12Swim38.png":
+{
+	"frame": {"x":164,"y":155,"w":160,"h":73},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":160,"h":73},
+	"sourceSize": {"w":163,"h":75}
+},
+"fish12Swim39.png":
+{
+	"frame": {"x":163,"y":383,"w":159,"h":71},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":3,"w":159,"h":71},
+	"sourceSize": {"w":163,"h":75}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasFish12Pack0.webp",
+	"format": "RGBA4444",
+	"size": {"w":512,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:122a8da3c3b9ad890db2c0cca2a64711:317c6d9fcdd1aef7100a7f9c60071a8b:d221c8fe562d078df654500ee7065632$"
+}
+}

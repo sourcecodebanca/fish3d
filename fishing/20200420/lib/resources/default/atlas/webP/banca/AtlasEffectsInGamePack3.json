@@ -1,0 +1,141 @@
+{"frames": {
+
+"dragonText.png":
+{
+	"frame": {"x":521,"y":1,"w":403,"h":152},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":403,"h":152},
+	"sourceSize": {"w":403,"h":152}
+},
+"EffectBoom0.png":
+{
+	"frame": {"x":755,"y":373,"w":132,"h":132},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":190,"y":190,"w":132,"h":132},
+	"sourceSize": {"w":512,"h":512}
+},
+"EffectBoom2.png":
+{
+	"frame": {"x":525,"y":859,"w":154,"h":154},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":179,"y":179,"w":154,"h":154},
+	"sourceSize": {"w":512,"h":512}
+},
+"EffectBoom3.png":
+{
+	"frame": {"x":1,"y":583,"w":260,"h":260},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":126,"y":126,"w":260,"h":260},
+	"sourceSize": {"w":512,"h":512}
+},
+"EffectBoom6.png":
+{
+	"frame": {"x":491,"y":373,"w":262,"h":263},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":125,"y":125,"w":262,"h":263},
+	"sourceSize": {"w":512,"h":512}
+},
+"EffectBoom7.png":
+{
+	"frame": {"x":1,"y":314,"w":267,"h":267},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":122,"y":123,"w":267,"h":267},
+	"sourceSize": {"w":512,"h":512}
+},
+"EffectBoom8.png":
+{
+	"frame": {"x":263,"y":756,"w":260,"h":260},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":126,"y":126,"w":260,"h":260},
+	"sourceSize": {"w":512,"h":512}
+},
+"Emotion1Icon.png":
+{
+	"frame": {"x":889,"y":447,"w":118,"h":123},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":118,"h":123},
+	"sourceSize": {"w":125,"h":125}
+},
+"Emotion5Icon.png":
+{
+	"frame": {"x":755,"y":507,"w":117,"h":131},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":2,"w":117,"h":131},
+	"sourceSize": {"w":135,"h":135}
+},
+"Floor3Dragongun.jpg":
+{
+	"frame": {"x":521,"y":155,"w":384,"h":216},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":216},
+	"sourceSize": {"w":384,"h":216}
+},
+"Freeze.png":
+{
+	"frame": {"x":681,"y":859,"w":154,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":142},
+	"sourceSize": {"w":154,"h":142}
+},
+"IceDrop.png":
+{
+	"frame": {"x":907,"y":155,"w":115,"h":290},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":0,"w":115,"h":290},
+	"sourceSize": {"w":120,"h":290}
+},
+"lightningChainBG.png":
+{
+	"frame": {"x":1,"y":1,"w":518,"h":311},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":518,"h":311},
+	"sourceSize": {"w":518,"h":311}
+},
+"lightningClay1.png":
+{
+	"frame": {"x":270,"y":314,"w":219,"h":219},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":219,"h":219},
+	"sourceSize": {"w":219,"h":219}
+},
+"lightningClay2.png":
+{
+	"frame": {"x":270,"y":535,"w":219,"h":219},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":219,"h":219},
+	"sourceSize": {"w":219,"h":219}
+},
+"lightningClay3.png":
+{
+	"frame": {"x":525,"y":638,"w":219,"h":219},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":219,"h":219},
+	"sourceSize": {"w":219,"h":219}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasEffectsInGamePack3.webp",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"related_multi_packs": [ "AtlasEffectsInGamePack0.json", "AtlasEffectsInGamePack1.json", "AtlasEffectsInGamePack2.json", "AtlasEffectsInGamePack4.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:188092349eb19ac5923842d9bc18b075:55d51cba1070d42a8e524bdb85db63e3:9baad3fa80a8ff2db7a5f769b55b3bed$"
+}
+}

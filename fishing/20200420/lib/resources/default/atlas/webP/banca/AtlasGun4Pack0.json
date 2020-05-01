@@ -1,0 +1,96 @@
+{"frames": {
+
+"bullet4fire0.png":
+{
+	"frame": {"x":2,"y":284,"w":83,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":0,"w":83,"h":96},
+	"sourceSize": {"w":106,"h":120}
+},
+"bullet4fire1.png":
+{
+	"frame": {"x":2,"y":201,"w":81,"h":105},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":0,"w":81,"h":105},
+	"sourceSize": {"w":106,"h":120}
+},
+"bullet4fire2.png":
+{
+	"frame": {"x":124,"y":106,"w":82,"h":115},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":1,"w":82,"h":115},
+	"sourceSize": {"w":106,"h":120}
+},
+"gun4fire0.png":
+{
+	"frame": {"x":2,"y":382,"w":90,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":17,"w":90,"h":95},
+	"sourceSize": {"w":106,"h":120}
+},
+"gun4fire1.png":
+{
+	"frame": {"x":2,"y":109,"w":90,"h":109},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":6,"w":90,"h":109},
+	"sourceSize": {"w":106,"h":120}
+},
+"gun4fire2.png":
+{
+	"frame": {"x":124,"y":2,"w":102,"h":116},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":102,"h":116},
+	"sourceSize": {"w":106,"h":120}
+},
+"gun4fire3.png":
+{
+	"frame": {"x":2,"y":2,"w":105,"h":120},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":105,"h":120},
+	"sourceSize": {"w":106,"h":120}
+},
+"gun4fire4.png":
+{
+	"frame": {"x":113,"y":190,"w":92,"h":108},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":10,"w":92,"h":108},
+	"sourceSize": {"w":106,"h":120}
+},
+"gun4fire5.png":
+{
+	"frame": {"x":2,"y":382,"w":90,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":17,"w":90,"h":95},
+	"sourceSize": {"w":106,"h":120}
+},
+"gun4idle0.png":
+{
+	"frame": {"x":2,"y":382,"w":90,"h":95},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":10,"y":17,"w":90,"h":95},
+	"sourceSize": {"w":106,"h":120}
+}},
+"animations": {
+	"bullet4fire": ["bullet4fire0.png","bullet4fire1.png","bullet4fire2.png"],
+	"gun4fire": ["gun4fire0.png","gun4fire1.png","gun4fire2.png","gun4fire3.png","gun4fire4.png","gun4fire5.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasGun4Pack0.webp",
+	"format": "RGBA4444",
+	"size": {"w":256,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7b6c662c731c4df66876ea092ddc91ea:7fd8e2470c9ca8cc267d291240ad8104:723962cc29aaa3536fa44e3cbc2b1e36$"
+}
+}

@@ -1,0 +1,21 @@
+{"frames": {
+
+"BG3.jpg":
+{
+	"frame": {"x":2,"y":2,"w":1020,"h":582},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1020,"h":582},
+	"sourceSize": {"w":1020,"h":582}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasBackgroundBanCaPack2.webp",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"related_multi_packs": [ "AtlasBackgroundBanCaPack0.json", "AtlasBackgroundBanCaPack1.json", "AtlasBackgroundBanCaPack3.json", "AtlasBackgroundBanCaPack4.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:09f4d959d5818d0176449f38f0498816:b51379dacc6730dd277c372e223ae71f:bc573c97bd8f5033bdb5e08f8a104d24$"
+}
+}

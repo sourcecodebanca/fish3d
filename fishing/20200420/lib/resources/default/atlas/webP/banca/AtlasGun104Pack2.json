@@ -1,0 +1,48 @@
+{"frames": {
+
+"gun104idle6.png":
+{
+	"frame": {"x":2,"y":2,"w":200,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":87,"w":200,"h":160},
+	"sourceSize": {"w":214,"h":260}
+},
+"gun104idle7.png":
+{
+	"frame": {"x":204,"y":2,"w":200,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":88,"w":200,"h":160},
+	"sourceSize": {"w":214,"h":260}
+},
+"gun104idle8.png":
+{
+	"frame": {"x":164,"y":164,"w":199,"h":160},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":89,"w":199,"h":160},
+	"sourceSize": {"w":214,"h":260}
+},
+"gun104idle9.png":
+{
+	"frame": {"x":2,"y":164,"w":200,"h":160},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":88,"w":200,"h":160},
+	"sourceSize": {"w":214,"h":260}
+}},
+"animations": {
+	"gun104idle": ["gun104idle6.png","gun104idle7.png","gun104idle8.png","gun104idle9.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasGun104Pack2.webp",
+	"format": "RGBA4444",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"related_multi_packs": [ "AtlasGun104Pack0.json", "AtlasGun104Pack1.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:ac7557c6c623e226dfd42aa132f46b19:be9ff41962973898d3fa44d6664a5992:db433cac3f1852126aef33c9fc282aca$"
+}
+}

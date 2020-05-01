@@ -1,0 +1,189 @@
+{"frames": {
+
+"arrow.png":
+{
+	"frame": {"x":2,"y":942,"w":79,"h":81},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":79,"h":81},
+	"sourceSize": {"w":79,"h":81}
+},
+"bgBonusGameThanTai.jpg":
+{
+	"frame": {"x":2,"y":2,"w":1020,"h":574},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1020,"h":574},
+	"sourceSize": {"w":1020,"h":574}
+},
+"bgCompoBonusGame.png":
+{
+	"frame": {"x":942,"y":748,"w":210,"h":36},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":210,"h":36},
+	"sourceSize": {"w":210,"h":36}
+},
+"bgCompoBonusGameAAA.png":
+{
+	"frame": {"x":287,"y":942,"w":203,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":203,"h":72},
+	"sourceSize": {"w":203,"h":72}
+},
+"bgWinBonus.png":
+{
+	"frame": {"x":2,"y":578,"w":568,"h":362},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":568,"h":362},
+	"sourceSize": {"w":568,"h":362}
+},
+"bonusIconGift2.png":
+{
+	"frame": {"x":692,"y":939,"w":60,"h":56},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":60,"h":56},
+	"sourceSize": {"w":60,"h":60}
+},
+"bonusIconGift6.png":
+{
+	"frame": {"x":805,"y":939,"w":59,"h":59},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":59,"h":59},
+	"sourceSize": {"w":60,"h":60}
+},
+"bonusIconGift7.png":
+{
+	"frame": {"x":866,"y":939,"w":59,"h":58},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":59,"h":58},
+	"sourceSize": {"w":60,"h":60}
+},
+"bonusIconGift8.png":
+{
+	"frame": {"x":926,"y":689,"w":59,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":59,"h":57},
+	"sourceSize": {"w":60,"h":60}
+},
+"bonusIconGift10.png":
+{
+	"frame": {"x":750,"y":939,"w":60,"h":53},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":5,"w":60,"h":53},
+	"sourceSize": {"w":60,"h":60}
+},
+"bonusIconGift12.png":
+{
+	"frame": {"x":926,"y":630,"w":59,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":59,"h":57},
+	"sourceSize": {"w":60,"h":60}
+},
+"bonusProgressBar0.png":
+{
+	"frame": {"x":692,"y":1001,"w":185,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":13},
+	"sourceSize": {"w":185,"h":13}
+},
+"bonusProgressBar1.png":
+{
+	"frame": {"x":987,"y":630,"w":185,"h":13},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":13},
+	"sourceSize": {"w":185,"h":13}
+},
+"bonusProgressBar10.png":
+{
+	"frame": {"x":912,"y":748,"w":185,"h":13},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":13},
+	"sourceSize": {"w":185,"h":13}
+},
+"bonusProgressBar11.png":
+{
+	"frame": {"x":1002,"y":630,"w":185,"h":13},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":13},
+	"sourceSize": {"w":185,"h":13}
+},
+"bonusProgressBar12.png":
+{
+	"frame": {"x":927,"y":817,"w":185,"h":13},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":13},
+	"sourceSize": {"w":185,"h":13}
+},
+"bonusProgressBar13.png":
+{
+	"frame": {"x":980,"y":817,"w":185,"h":13},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":13},
+	"sourceSize": {"w":185,"h":13}
+},
+"floorArrow.png":
+{
+	"frame": {"x":912,"y":578,"w":98,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":50},
+	"sourceSize": {"w":98,"h":50}
+},
+"Light.png":
+{
+	"frame": {"x":572,"y":578,"w":359,"h":338},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":359,"h":338},
+	"sourceSize": {"w":370,"h":370}
+},
+"light0.png":
+{
+	"frame": {"x":492,"y":942,"w":198,"h":66},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":5,"w":198,"h":66},
+	"sourceSize": {"w":200,"h":76}
+},
+"light1.png":
+{
+	"frame": {"x":85,"y":942,"w":200,"h":76},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":76},
+	"sourceSize": {"w":200,"h":76}
+},
+"processBarBonusGame.png":
+{
+	"frame": {"x":492,"y":1010,"w":140,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":8},
+	"sourceSize": {"w":140,"h":8}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasBonusGamePack0.webp",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"related_multi_packs": [ "AtlasBonusGamePack1.json", "AtlasBonusGamePack2.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:a10d05e89efc823fba9e42766a956328:1bafae82fcd6acc5cce3a584e82b7f7d:e09a02c8be8d5678bf44a90f9389716b$"
+}
+}

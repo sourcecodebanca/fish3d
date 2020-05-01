@@ -1,0 +1,101 @@
+{"frames": {
+
+"fish26Swim0.png":
+{
+	"frame": {"x":2,"y":315,"w":424,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":118,"y":34,"w":424,"h":155},
+	"sourceSize": {"w":577,"h":223}
+},
+"fish26Swim8.png":
+{
+	"frame": {"x":2,"y":2,"w":434,"h":152},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":109,"y":48,"w":434,"h":152},
+	"sourceSize": {"w":577,"h":223}
+},
+"fish26Swim11.png":
+{
+	"frame": {"x":438,"y":2,"w":430,"h":155},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":112,"y":42,"w":430,"h":155},
+	"sourceSize": {"w":577,"h":223}
+},
+"fish26Swim20.png":
+{
+	"frame": {"x":2,"y":156,"w":429,"h":157},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":113,"y":37,"w":429,"h":157},
+	"sourceSize": {"w":577,"h":223}
+},
+"fish26Swim25.png":
+{
+	"frame": {"x":433,"y":159,"w":426,"h":158},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":107,"y":34,"w":426,"h":158},
+	"sourceSize": {"w":577,"h":223}
+},
+"fish26Swim26.png":
+{
+	"frame": {"x":870,"y":2,"w":410,"h":151},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":37,"w":410,"h":151},
+	"sourceSize": {"w":577,"h":223}
+},
+"fish26Swim27.png":
+{
+	"frame": {"x":870,"y":2,"w":410,"h":151},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":37,"w":410,"h":151},
+	"sourceSize": {"w":577,"h":223}
+},
+"fish26Swim32.png":
+{
+	"frame": {"x":845,"y":414,"w":388,"h":144},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":116,"y":43,"w":388,"h":144},
+	"sourceSize": {"w":577,"h":223}
+},
+"fish26Swim33.png":
+{
+	"frame": {"x":428,"y":319,"w":415,"h":118},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":92,"y":57,"w":415,"h":118},
+	"sourceSize": {"w":577,"h":223}
+},
+"fish26Swim34.png":
+{
+	"frame": {"x":428,"y":439,"w":409,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":49,"w":409,"h":141},
+	"sourceSize": {"w":577,"h":223}
+},
+"fish26Swim35.png":
+{
+	"frame": {"x":428,"y":439,"w":409,"h":141},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":99,"y":49,"w":409,"h":141},
+	"sourceSize": {"w":577,"h":223}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasFish26Pack2.webp",
+	"format": "RGBA4444",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"related_multi_packs": [ "AtlasFish26Pack0.json", "AtlasFish26Pack1.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:e919ef96a0f75992e2b733a41aa59bf1:9b05b83729cc7505846bdfcde23bca31:f0539b2c754c932d05e021516c328321$"
+}
+}

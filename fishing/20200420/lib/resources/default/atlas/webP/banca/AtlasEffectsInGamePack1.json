@@ -1,0 +1,165 @@
+{"frames": {
+
+"bgBoom.png":
+{
+	"frame": {"x":436,"y":574,"w":562,"h":325},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":562,"h":325},
+	"sourceSize": {"w":562,"h":325}
+},
+"bgLaze.png":
+{
+	"frame": {"x":1,"y":1,"w":783,"h":212},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":783,"h":212},
+	"sourceSize": {"w":802,"h":212}
+},
+"BGNumFish.png":
+{
+	"frame": {"x":837,"y":504,"w":51,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":51,"h":51},
+	"sourceSize": {"w":51,"h":51}
+},
+"bgSonic.png":
+{
+	"frame": {"x":1,"y":215,"w":703,"h":357},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":703,"h":357},
+	"sourceSize": {"w":703,"h":357}
+},
+"collectDragon1Piece.png":
+{
+	"frame": {"x":706,"y":504,"w":34,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":62},
+	"sourceSize": {"w":34,"h":62}
+},
+"collectDragon2Piece.png":
+{
+	"frame": {"x":742,"y":504,"w":34,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":57},
+	"sourceSize": {"w":34,"h":57}
+},
+"EffectBoom5.png":
+{
+	"frame": {"x":706,"y":231,"w":271,"h":271},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":121,"y":121,"w":271,"h":271},
+	"sourceSize": {"w":512,"h":512}
+},
+"Emotion2Icon.png":
+{
+	"frame": {"x":552,"y":901,"w":114,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":4,"w":114,"h":113},
+	"sourceSize": {"w":120,"h":120}
+},
+"Emotion3Icon.png":
+{
+	"frame": {"x":436,"y":901,"w":114,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":2,"w":114,"h":117},
+	"sourceSize": {"w":120,"h":120}
+},
+"gemCollectDragon.png":
+{
+	"frame": {"x":1000,"y":231,"w":23,"h":23},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":23},
+	"sourceSize": {"w":23,"h":23}
+},
+"IconBrick5.png":
+{
+	"frame": {"x":890,"y":504,"w":48,"h":50},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":0,"w":48,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"iconGem.png":
+{
+	"frame": {"x":940,"y":548,"w":32,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":22},
+	"sourceSize": {"w":32,"h":22}
+},
+"IconTomato0.png":
+{
+	"frame": {"x":940,"y":504,"w":44,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":5,"w":44,"h":42},
+	"sourceSize": {"w":50,"h":50}
+},
+"lazelight.png":
+{
+	"frame": {"x":706,"y":222,"w":307,"h":7},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":307,"h":7},
+	"sourceSize": {"w":307,"h":7}
+},
+"LightDot.png":
+{
+	"frame": {"x":986,"y":504,"w":30,"h":31},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":30,"h":31},
+	"sourceSize": {"w":32,"h":35}
+},
+"lightningClay0.png":
+{
+	"frame": {"x":786,"y":1,"w":219,"h":219},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":219,"h":219},
+	"sourceSize": {"w":219,"h":219}
+},
+"lightProgress.png":
+{
+	"frame": {"x":778,"y":504,"w":57,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":57,"h":56},
+	"sourceSize": {"w":59,"h":58}
+},
+"Minor.png":
+{
+	"frame": {"x":1,"y":574,"w":433,"h":429},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":433,"h":429},
+	"sourceSize": {"w":433,"h":429}
+},
+"processBarDragon.png":
+{
+	"frame": {"x":1000,"y":256,"w":22,"h":246},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":246},
+	"sourceSize": {"w":22,"h":246}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasEffectsInGamePack1.webp",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"related_multi_packs": [ "AtlasEffectsInGamePack0.json", "AtlasEffectsInGamePack2.json", "AtlasEffectsInGamePack3.json", "AtlasEffectsInGamePack4.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:188092349eb19ac5923842d9bc18b075:55d51cba1070d42a8e524bdb85db63e3:9baad3fa80a8ff2db7a5f769b55b3bed$"
+}
+}

@@ -1,0 +1,101 @@
+{"frames": {
+
+"BackgroundBounsGame.jpg":
+{
+	"frame": {"x":2,"y":2,"w":1019,"h":573},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1019,"h":573},
+	"sourceSize": {"w":1019,"h":573}
+},
+"CoinNormal.png":
+{
+	"frame": {"x":162,"y":755,"w":147,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":27,"w":147,"h":151},
+	"sourceSize": {"w":195,"h":205}
+},
+"CoinOpen0.png":
+{
+	"frame": {"x":162,"y":755,"w":147,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":27,"w":147,"h":151},
+	"sourceSize": {"w":195,"h":205}
+},
+"CoinOpen3.png":
+{
+	"frame": {"x":156,"y":577,"w":146,"h":176},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":15,"w":146,"h":176},
+	"sourceSize": {"w":195,"h":205}
+},
+"CoinOpen4.png":
+{
+	"frame": {"x":2,"y":762,"w":158,"h":177},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":18,"y":14,"w":158,"h":177},
+	"sourceSize": {"w":195,"h":205}
+},
+"ItemsCoin1.png":
+{
+	"frame": {"x":304,"y":577,"w":147,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":27,"w":147,"h":151},
+	"sourceSize": {"w":195,"h":205}
+},
+"ItemsCoin2.png":
+{
+	"frame": {"x":602,"y":577,"w":147,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":29,"w":147,"h":147},
+	"sourceSize": {"w":195,"h":205}
+},
+"ItemsCoin3.png":
+{
+	"frame": {"x":453,"y":577,"w":147,"h":149},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":28,"w":147,"h":149},
+	"sourceSize": {"w":195,"h":205}
+},
+"ItemsCoin4.png":
+{
+	"frame": {"x":460,"y":728,"w":147,"h":148},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":28,"w":147,"h":148},
+	"sourceSize": {"w":195,"h":205}
+},
+"ItemsCoin5.png":
+{
+	"frame": {"x":311,"y":730,"w":147,"h":151},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":27,"w":147,"h":151},
+	"sourceSize": {"w":195,"h":205}
+},
+"ItemShell0.png":
+{
+	"frame": {"x":2,"y":577,"w":152,"h":183},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":0,"w":152,"h":183},
+	"sourceSize": {"w":160,"h":183}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "AtlasBonusGamePack2.webp",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"related_multi_packs": [ "AtlasBonusGamePack0.json", "AtlasBonusGamePack1.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:a10d05e89efc823fba9e42766a956328:1bafae82fcd6acc5cce3a584e82b7f7d:e09a02c8be8d5678bf44a90f9389716b$"
+}
+}
